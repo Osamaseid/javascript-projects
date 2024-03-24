@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap')
+;
+body{
+    background:#2a11b9;
+}
+.stopwatch{
+    width: 90%;
+    max-width: 600px;
+    background-image: liner-gradiant(rgba(0,0,0,0.8), rgb(0,0,0,0.8)),url(images/background.png);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 40px 0;
+    color: #f3f0f0;
+    margin: 200px auto 0;
+    box-shadow: 0 10px 10px rgb(0,0,0,0.2);
+}
+.stopwatch h1{
+    margin-top: 60px;
+    font-size: 64px;
+    font-weight: 300;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.buttons img {
+    width: 50px;
+    margin: 0 20px;
+    cursor: pointer;
+}
+.buttons img:nth-child(2){
+    width: 80px;
+
+}
