@@ -20,6 +20,7 @@ Welcome to the **JavaScript Projects** repository! This collection features simp
 14. **Notebook** - A simple note-taking application.
 15. **Password Hide** - A tool to hide passwords.
 
+
 ## Getting Started
 
 To get a copy of this repository up and running on your local machine, follow these steps:
